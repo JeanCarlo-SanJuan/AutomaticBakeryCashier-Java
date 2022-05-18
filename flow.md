@@ -1,17 +1,18 @@
-1. Main menu
+1. Navigation (Main menu)
     1. Browse shop
     1. View cart
     1. Login / Manage account
+    1. Exit
+    
+1. Shop Inventory
+    1. Buttons:
+        1. Show list of categories
+            1. Show list of items in categories
+                1. Ask quantity
+                    1. Add item to cart
+        1. Return
 
-1. Shop
-    Buttons:
-    1. Show list of categories
-        1. Show list of items in categories
-            1. Ask quantity
-                1. Add item to cart
-    1. Return
-
-1. Cart
+1. Cart (User Inventory)
     1. Props:
         1. Items::list
     1. Displays:
