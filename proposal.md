@@ -21,13 +21,13 @@ The program aims to achieve the following objectives to help benefit bakeries:
 5. Efficiently track product sales and stocks via an admin panel. (solves #4).
 
 __Team Members:__
-| # |   Role                                | Name                      |
-|---|---------------------------------------|---------------------------|
-|1. | Navigation (Main menu to other parts) |ABELARDO, ANTONIO GABRIEL  | 
-|2. | Account system designer               |GARCIA, SONS JUSTIN        |
-|3. | Inventory system designer (shop)      |MILANA, ASHLEIGH NELSON    |
-|4. | Project Lead and admin system         |SAN JUAN, JEAN CARLO       |
-|5. | Inventory system designer (user)      |TRINIDAD, LORENZO EARL     |
+| # |   Role                                    | Name                      |
+|---|-------------------------------------------|---------------------------|
+|1. | Navigation (Main menu to other parts)     |ABELARDO, ANTONIO GABRIEL  | 
+|2. | Account system designer and admin panel   |GARCIA, SONS JUSTIN        |
+|3. | Inventory system designer (shop)          |MILANA, ASHLEIGH NELSON    |
+|4. | Project Lead                              |SAN JUAN, JEAN CARLO       |
+|5. | Inventory system designer (user)          |TRINIDAD, LORENZO EARL     |
 
 __Screen Designs:__
 1. Main menu
@@ -36,5 +36,5 @@ __Screen Designs:__
 ![login screen](./login.png "login screen")
 3. Cart and checkout
 ![Cart and checkout](./Cart.jpg "Cart and checkout")
-4. Product listing
+4. Product listing 
 ![Product listing](./product-listing.png "Product listing")
