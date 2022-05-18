@@ -4,10 +4,12 @@
     1. Login / Manage account
 
 1. Shop
+    Buttons:
     1. Show list of categories
         1. Show list of items in categories
             1. Ask quantity
-        1. Return
+                1. Add item to cart
+    1. Return
 
 1. Cart
     1. Props:
@@ -24,7 +26,7 @@
 1. Account System
     <!-- By default treats user as a guest -->
     1. Displays:
-        1. Balance
+        1. Balance::float
         1. Allowed discounts - Student | Senior | PWD
     1. Buttons:
         1. Deposit amount
@@ -33,3 +35,11 @@
         1. login
         1. logout
         1. verify
+        1. deposit
+        1. getBalance
+        1. register
+            fields:
+            1. ask name
+            1. year of birth
+            Todos:
+            1. save credentials to file.
