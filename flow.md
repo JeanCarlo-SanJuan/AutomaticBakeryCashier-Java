@@ -1,19 +1,17 @@
-1. Login screen
-    1. Login as member
-    1. Login as guest
-    1. HIDDEN OPTION: Login as admin
 1. Main menu
     1. Browse shop
-        1. Show list of categories
-            1. Show list of items in categories
     1. View cart
-    1. Manage account
-        1. Show account system GUI
-    1. Logout        
+    1. Login / Manage account
+
+1. Shop
+    1. Show list of categories
+        1. Show list of items in categories
+            1. Ask quantity
+        1. Return
 
 1. Cart
     1. Props:
-        1. Items
+        1. Items::list
     1. Displays:
         1. total (without discount)
         1. Item subtotal
@@ -21,8 +19,10 @@
         1. Adjust quantity
         1. Delete item
         1. Checkout
+        1. Return
 
 1. Account System
+    <!-- By default treats user as a guest -->
     1. Displays:
         1. Balance
         1. Allowed discounts - Student | Senior | PWD
