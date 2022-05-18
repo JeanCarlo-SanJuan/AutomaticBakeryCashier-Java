@@ -46,7 +46,7 @@
     <!-- By default treats user as a guest -->
     1. Displays:
         1. Balance::float
-        1. Allowed discounts - Student | Senior | PWD
+        1. Status - Student | Senior | PWD | Premium
     1. Buttons:
         1. Deposit amount
         1. Return
@@ -57,8 +57,8 @@
         1. deposit
         1. getBalance
         1. register
-            props:
-            1. ask name
-            1. year of birth
-            Todos:
-            1. save credentials to file.
+            1. props:
+                1. ask name
+                1. year of birth
+            1. Todos:
+                1. save credentials to file.
